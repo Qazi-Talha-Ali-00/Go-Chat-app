@@ -1,0 +1,14 @@
+node_modules
+.env
+.package-lock.json
+package-lock.json  
+.yarn-error.log
+.yarn-debug.log
+.pnp.js
+.pnp.lock
+
+yarn.lock
+.venv/
+.venv
+venv/
+venv
